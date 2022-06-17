@@ -1,0 +1,32 @@
+
+1. Explain the use of JavaScript ( or What you can do using a JavaScript)
+​​we can create webstises, mobile apps, desktop apps, API, datastructures, block chain Apps.
+
+
+2. What is the difference between client-side and server-side?
+​​client side request data from the server side Ex: a user in youtube
+​​
+​​client side languages: HTML, css, JS
+​​
+​​server side has there own servers Ex: youtube
+​​
+​​backend languages: PHP, python, sql
+
+
+3. What is Nodejs?
+​​Node JS is the engine which was added along with other utilities to run  Java script
+
+
+4. Explain Scope in JavaScript
+​​Scope is defined in Javascript where a piece of code is implemented or run.
+
+
+
+5. JavaScript is asynchronous or synchronous.
+synchronous
+
+6. JavaScript is Single-threaded or Multi-threaded.
+Single-threaded
+
+7. Explain DOM in your own word.
+Interface where a HTML Document can be written.
